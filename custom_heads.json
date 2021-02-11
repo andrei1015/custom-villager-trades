@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Globe",
+    "uuid": "d54c8e17-7da2-4255-b3af-4ca87f404a51",
+	"texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDM0NjdhNTMxOTc4ZDBiOGZkMjRmNTYyODVjNzI3MzRkODRmNWVjODhlMGI0N2M0OTMyMzM2Mjk3OWIzMjNhZiJ9fX0="
+  },
+  {
+    "name": "Mossy Chimney",
+    "uuid": "3fc1c207-7611-4433-96c3-ee000b319f32",
+	"texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmIwODU5ZGFiMjcyZGMyNzBiNDRjOWFlNTcxZDM1ZWQ3OGNjZjZlODM0MDVhNmViMTQyYmQzZDQ2MGY0ZGExNyJ9fX0="
+  },
+  {
+    "name": "Pancakes with Syrup on a Plate",
+    "uuid": "32fa724f-462e-4954-9f73-3847e046bb63",
+	"texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGEyZmJmNTM2NzZiMWJjYjIyOTcyODc5YmI3NWQzNzE4OTY1ZDQyNzM3MTMwZmEyMGMyNmQwOTNmOGM4OTQxYyJ9fX0="
+  }
+]
